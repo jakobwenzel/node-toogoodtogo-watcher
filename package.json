@@ -32,6 +32,7 @@
     "request-promise": "^4.2.5",
     "rxjs": "^6.5.5",
     "telegraf": "^3.37.0",
-    "yargs": "^15.3.1"
+    "yargs": "^15.3.1",
+    "moment": "2.24.0"
   }
 }
